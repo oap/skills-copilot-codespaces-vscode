@@ -13,5 +13,5 @@ app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
 });
 
-// run the server
+// run the server with node
 // node comments.js
